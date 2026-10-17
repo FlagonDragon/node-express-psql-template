@@ -1,3 +1,5 @@
+(this is commonjs template using require)
+
 npm init -y
 
 npm install express ejs express-validator pg dotenv express-session passport passport-local
