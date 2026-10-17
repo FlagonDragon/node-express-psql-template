@@ -1,3 +1,5 @@
+(ES6 Import version)
+
 npm init -y
 
 npm install express ejs express-validator pg dotenv express-session passport passport-local
